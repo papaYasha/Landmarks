@@ -14,6 +14,7 @@
 		FA232BB828889ECC0002F2F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA232BB728889ECC0002F2F9 /* Preview Assets.xcassets */; };
 		FA232BBB28889ECC0002F2F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA232BB928889ECC0002F2F9 /* LaunchScreen.storyboard */; };
 		FA232BC32888A9430002F2F9 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA232BC22888A9430002F2F9 /* CircleImage.swift */; };
+		FA232BC52888B16E0002F2F9 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA232BC42888B16E0002F2F9 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FA232BBA28889ECC0002F2F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA232BBC28889ECC0002F2F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA232BC22888A9430002F2F9 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		FA232BC42888B16E0002F2F9 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FA232BB228889EC80002F2F9 /* ContentView.swift */,
 				FA232BB428889ECC0002F2F9 /* Assets.xcassets */,
 				FA232BC22888A9430002F2F9 /* CircleImage.swift */,
+				FA232BC42888B16E0002F2F9 /* MapView.swift */,
 				FA232BB928889ECC0002F2F9 /* LaunchScreen.storyboard */,
 				FA232BBC28889ECC0002F2F9 /* Info.plist */,
 				FA232BB628889ECC0002F2F9 /* Preview Content */,
@@ -150,6 +153,7 @@
 			files = (
 				FA232BAF28889EC80002F2F9 /* AppDelegate.swift in Sources */,
 				FA232BC32888A9430002F2F9 /* CircleImage.swift in Sources */,
+				FA232BC52888B16E0002F2F9 /* MapView.swift in Sources */,
 				FA232BB128889EC80002F2F9 /* SceneDelegate.swift in Sources */,
 				FA232BB328889EC80002F2F9 /* ContentView.swift in Sources */,
 			);
