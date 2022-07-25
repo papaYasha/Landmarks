@@ -12,7 +12,8 @@ struct CircleImage: View {
         Image("turtlerock")
             .clipShape(Circle())
             .overlay(Circle()
-                        .stroke(Color.white, lineWidth: 4))
+                        .stroke(Color.white,
+                                lineWidth: 4))
             .shadow(radius: 7)
     }
 }
